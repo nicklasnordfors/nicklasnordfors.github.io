@@ -22,4 +22,6 @@ Abstract:
 
 Abstract:
 
+Satellite imagery has transformed our understanding of both the natural world and human well-being, but the instrumental record only begins in 1972. We develop an approach to extend these data backwards in time an additional 30 years. We digitize the archive of 1.6 million aerial photographs collected during the processes of mapping what was then British colonies. This archive surveys more than 60 former colonies, where granular data from other sources is notoriously sparse, from the 1940s to the 1990s. We develop a machine learning approach to assemble these photographs into mosaics comparable to modern satellite observations. We then generate large-scale, gridded datasets that provide measures of population density, land use, and infrastructure.
+
 
