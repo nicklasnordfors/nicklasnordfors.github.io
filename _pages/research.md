@@ -6,26 +6,18 @@ author_profile: true
 ---
 
 
-##### Job Market Paper
-
-#### Job Market Paper
-
 ### Job Market Paper
 
-## Job Market Paper
+- Drought and city growth. [Draft coming soon] &nbsp; 
 
-# Job Market Paper
-
-- Drought and urbanization. &nbsp; 
-
-Abstract: Some researchers and policymakers posit that climate change should increase urbanization as increasing temperatures make rural livelihoods precarious, while others posit that climate change might trap households who cannot afford to migrate in increasing rural poverty. Previous empirical evidence on the link between climate and urbanization is inconclusive. This paper uses new data derived from satellite imagery that maps urbanization for 7,000 cities in low and lower-middle income countries across 23 years to provide new evidence on the relationship between drought and urbanization. Cities experience large and persistent declines in growth rates after major drought events: after 11 years, city growth rates are 1 percentage point lower, compared to an average growth rate of 2.5% per year. I show that the contemporaneous effect of drought on urban growth is misleading and fails to account for the full dynamic effects of drought. Consistent with models that envision a drought-migration poverty trap, the negative effects on urbanization are largest in the poorest tercile of countries.
+Abstract: Some researchers and policymakers posit that climate change should increase city growth and urbanization as increasing temperatures make rural livelihoods precarious, while others posit that climate change might trap households who cannot afford to migrate in increasing rural poverty. Previous empirical evidence on the link between climate and urbanization is inconclusive. This paper uses new data derived from satellite imagery that maps city growth for 7,000 cities in low and lower-middle income countries across 23 years to provide new evidence on the relationship between drought and urbanization. Cities experience large and persistent declines in growth rates after major drought events: after 11 years, cities remain around 1 to 2 percent smaller, compared to a drought-free counterfactual. I show that the contemporaneous effect of drought on urban growth is misleading and fails to account for the full dynamic effects of drought. Consistent with models that envision a drought-migration poverty trap, the negative effects on urbanization are largest for the poorest countries in the sample. 
 
 
 ### Ongoing Work
 
 - Trade and pollution - Evidence from India (with Malin Niemi and Anna Tompsett). &nbsp; 
 
-Abstract: What happens to pollution when developing countries open their borders to trade? Trade might increase production and thus pollution (the scale effect), increase incomes and thus demand for cleaner production (the technique effect), or shift production towards more or less clean industries (the composition effect). Empirical evidence on the environmental effects of trade liberalization in developing countries remains limited. We study the effects of the 1991 Indian trade liberalization reform on water pollution. Water pollution increased by X standard deviations per one standard deviation reduction in district-level tariff exposure.
+Abstract: What happens to pollution when developing countries open their borders to trade? Trade might increase production and thus pollution (the scale effect), increase incomes and thus demand for cleaner production (the technique effect), or shift production towards more or less clean industries (the composition effect). Empirical evidence on the environmental effects of trade liberalization in developing countries remains limited. We study the effects of the 1991 Indian trade liberalization reform on water pollution. We find that water pollution increased by 0.13 standard deviations per one standard deviation reduction in district-level tariff exposure.
 
 - 60 years of global environmental change 1939-1999: digitization of 1.6 million historical aerial photographs (joint with Hannah Druckenmiller, Solomon Hsiang, Trinetta Chong, Shruti Jain, Andreas Madestam, Luna Yue Huang, Simon Greenhill, Joel Ferguson, Hikari Murayama, Sherrie Wang and Anna Tompsett). &nbsp; 
 
