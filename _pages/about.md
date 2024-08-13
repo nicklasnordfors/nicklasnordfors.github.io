@@ -11,5 +11,5 @@ redirect_from:
 
 I am a Ph.D. Candidate in Economics at Stockholm University.
 
-My main fields of interest are environmental and development economics. I will be on the job market during the 2023-2024 academic year.
+My main fields of interest are environmental and development economics. 
 
