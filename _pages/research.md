@@ -8,7 +8,7 @@ author_profile: true
 
 ### Ongoing Work
 
-*Droughts and the growth of cities.* [Draft](https://nicklasnordfors.github.io/nordfors_jmp.pdf) &nbsp; 
+*Droughts and the growth of cities.* &nbsp; 
 
 Abstract: Some researchers and policymakers posit that climate change should increase city growth and urbanization as rising temperatures make rural livelihoods pre- carious, while others posit that climate change might trap rural households who cannot afford to migrate because of increasing poverty. Existing empirical evidence on the link between climate and urbanization is inconclusive. This paper provides new evidence, exploiting novel data that maps city growth for 7,000 cities in 108 low and lower-middle income countries across 23 years to provide new evidence on the relationship between drought and urbanization. Cities experience large and persistent declines in growth rates after major drought events: after 11 years, cities are 1 percent smaller, compared to a drought-free counterfactual. I show that a positive correlation between drought and con-temporaneous city growth is misleading and that fully accounting for dynamic effects is essential to correctly understand the relationship between drought and city growth. Consistent with models that envision a drought-migration poverty trap, the negative effects on urbanization are more pronounced for the poorest countries.
 
