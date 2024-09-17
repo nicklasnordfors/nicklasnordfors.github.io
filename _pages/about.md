@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate in Economics at Stockholm University.
+I am a researcher at the Department of Economics, University of Gothenburg. I hold a PhD in Economics from Stockholm University.
 
-My main fields of interest are environmental and development economics. 
+My research interests are primarily in economic development and environmental economics. 
 
