@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicklas Nordfors"
 title_separator          : "-"
 name                     : &name "Nicklas Nordfors"
-description              : &description "Ph.D. Candidate in Economics"
+description              : &description "Researcher"
 url                      : https://nicklasnordfors.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicklasnordfors/nicklasnordfors.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicklas Nordfors"
   avatar           : "profile_smaller.png"
-  bio              : "Ph.D. Candidate"
-  location         : "Stockholm, Sweden"
+  bio              : "Researcher"
+  location         : "Gothenburg / Stockholm, Sweden"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : nicklas-goran.nordfors@su.se
+  email            : nicklas.nordfors@economics.gu.se
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
