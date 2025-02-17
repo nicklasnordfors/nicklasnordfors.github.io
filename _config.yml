@@ -1,6 +1,6 @@
 title: Nicklas Nordfors
 logo: /assets/img/profile_smaller.png
 description: Researcher, University of Gothenburg
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
