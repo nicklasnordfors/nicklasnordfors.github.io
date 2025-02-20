@@ -16,7 +16,7 @@ _Trade and pollution: Evidence from India_
 
 ## Work in progress
 
-_Droughts and city growth_  
+_Droughts and the growth of cities_  
 [Pre-print](https://nicklasnordfors.github.io/assets/pdf/droughts_cities.pdf)  
 
 _60 years of global environmental change 1939-1999: digitization of 1.6 million historical aerial photographs_  
