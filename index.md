@@ -6,6 +6,8 @@ I am a researcher at the Department of Economics, University of Gothenburg. I re
 
 My main research interests are in economic development and environmental economics.
 
+Email: nicklas.nordfors@economics.gu.se
+
 ## Working papers
 
 _Trade and pollution: Evidence from India_  
@@ -15,6 +17,7 @@ _Trade and pollution: Evidence from India_
 ## Work in progress
 
 _Droughts and city growth_  
+[Pre-print](https://nicklasnordfors.github.io/assets/pdf/droughts_cities.pdf)  
 
 _60 years of global environmental change 1939-1999: digitization of 1.6 million historical aerial photographs_  
 (with [Aerial History Project]())  
