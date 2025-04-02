@@ -11,7 +11,7 @@ Email: nicklas.nordfors@economics.gu.se
 ## Working papers
 
 _A robot-assisted pipeline to rapidly scan 1.7 million historical aerial photographs_  
-(with [Sheila Masson], [Alan Potts], [Allan Williams], [Steve Berggreen], [Kevin McLaren], [Sam Martin], [Eugenio Noda], [Nic Ruecroft], [Hannah Druckenmiller], [Solomon Hsiang], [Andreas Madestam], and [Anna Tompsett])  
+(with [Sheila Masson](), [Alan Potts](https://www.ncap.org/about-us/team), [Allan Williams](https://www.ncap.org/about-us/team), [Steve Berggreen](https://sites.google.com/view/steveberggreen/), [Kevin McLaren](https://www.ncap.org/about-us/team), [Sam Martin](https://www.ncap.org/about-us/team), [Eugenio Noda](https://www.globalpolicy.science/eugenio-noda), [Nic Ruecroft](), [Hannah Druckenmiller](https://hannahdruckenmiller.com), [Solomon Hsiang](https://www.solomonhsiang.com), [Andreas Madestam](https://www.andreasmadestam.com), and [Anna Tompsett](https://www.annatompsett.com))  
 [arXiv pre-print](https://arxiv.org/abs/2503.24063)  
 
 _Trade and pollution: Evidence from India_  
