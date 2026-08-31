@@ -10,8 +10,8 @@ Email: nicklas.nordfors@economics.gu.se
 
 ## Publications
 
-_[A robot-assisted pipeline to rapidly scan 1.7 million historical aerial photographs](https://www.nature.com/articles/s40494-026-02365-2)_  
-npj Heritage Science 14(23), 2026
+_[A robot-assisted pipeline to rapidly scan 1.7 million historical aerial photographs](https://www.nature.com/articles/s40494-026-02365-2)_
+npj Heritage Science 14(23), 2026  
 (with [Sheila Masson](), [Alan Potts](https://www.ncap.org/about-us/team), [Allan Williams](https://www.ncap.org/about-us/team), [Steve Berggreen](https://sites.google.com/view/steveberggreen/), [Kevin McLaren](https://www.ncap.org/about-us/team), [Sam Martin](https://www.ncap.org/about-us/team), [Eugenio Noda](https://www.globalpolicy.science/eugenio-noda), [Nic Ruecroft](), [Hannah Druckenmiller](https://hannahdruckenmiller.com), [Solomon Hsiang](https://www.solomonhsiang.com), [Andreas Madestam](https://www.andreasmadestam.com), and [Anna Tompsett](https://www.annatompsett.com))  
 
 ## Working papers
